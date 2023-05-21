@@ -113,12 +113,3 @@ public class Product implements Comparable,Serializable{
 	
 	
 }
-/*
-100
-Parle
-Sweet
-5000
-2500
-Biscuits
-2023-12-18
-*/
